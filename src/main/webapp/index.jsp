@@ -55,7 +55,7 @@
 
 <body>
     <header>
-        <h1>Java Home Cloud - Banglore</h1>
+        <h1>Java Home Cloud - Banglore On Saturday</h1>
     </header>
 
     <h2>GitHub Actions Webinar</h2>
